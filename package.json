@@ -1,0 +1,20 @@
+{
+	"name": "sillytavern-stahp",
+	"version": "1.0.0",
+	"description": "API to interact with SillyTavern",
+	"main": "stahp.mjs",
+	"type": "module",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/LenAnderson/SillyTavern-STAHP"
+	},
+	"keywords": [
+		"sillytavern"
+	],
+	"author": "LenAnderson",
+	"license": "AGPL-3.0-only",
+	"bugs": "https://github.com/LenAnderson/SillyTavern-STAHP/issues",
+	"homepage": "https://github.com/LenAnderson/SillyTavern-STAHP",
+	"dependencies": {},
+	"devDependencies": {}
+}
